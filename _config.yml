@@ -1,21 +1,22 @@
 # --- Basic options --- #
 
 # Name of website
-title: Huy Quoc Le
+title: My website
 
 # Short description of your site
-description: My own site
+description: A virtual proof that I'm awesome
 
 # Your name to show in the footer
-author: Huy Quoc Le
+author: Some Person
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "home"
-  News: "news"
   About Me: "aboutme"
- 
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -37,10 +38,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: huyle84@gmail.com, qhl576@uowmail.edu.au
-  facebook: https://www.facebook.com/huyle84/
-  github: https://github.com/huyle84
-  twitter: https://twitter.com/huyquooclee
+  email: "someone@example.com"
+  facebook: deanattali
+  github: daattali
+  twitter: daattali
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
@@ -58,7 +59,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
- google-scholar: https://scholar.google.com/citations?user=RsBLTFYAAAAJ&hl=en
+#  google-scholar: your google scholar
 
 # --- General options --- #
 
@@ -71,7 +72,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://huyle84.github.io/"
+url-pretty: "MyWebsite.com"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
