@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tips
-subtitle: An introduction to me
+subtitle: Tips and Tricks
 ---
 
 ## GitHub Tips
