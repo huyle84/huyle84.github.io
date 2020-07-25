@@ -19,3 +19,13 @@ September 2003- July 2007: Bachelor of Science in Mathematics, Department of Mat
 
 ### My Publications
 
+Google Scholar, DBLP or here
+
+Selected Papers
+Willy Susilo, Dung Hoang Duong, Huy Quoc Le, and Josef Pieprzyk.  Puncturable Encryption: A Generic Construction from Delegatable Fully Key-Homomorphic Encryption, accepted to ESORICS 2020.
+
+(BEST PAPER AWARD)  Huy Quoc Le, Dung Hoang Duong, Willy Susilo, Ha Thanh Nguyen Tran, Cuong Viet Trinh, Thomas Plantard, Josef Pieprzyk. Lattice Blind Signature with Forward Secrecy, accepted as a full paper to ACISP 2020  (Acceptance Rate: 19.9%.)
+
+Huy Quoc Le, Dung Hoang Duong, Willy Susilo, Josef Pieprzyk.  Trapdoor Delegation and HIBE from Middle-Product LWE in Standard Model,  to appear in ACNS 2020 (Acceptance Rate: 21%.) 
+
+For more information about my research, please visit here.
