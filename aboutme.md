@@ -4,10 +4,7 @@ title: About me
 subtitle: Crypto
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
+My name is Huy Quoc Le. I am doing research on Cryptography!
 
 What else do you need?
 
