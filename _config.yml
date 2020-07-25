@@ -12,7 +12,7 @@ author: Huy Le
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "Home"
+  Home: "home"
   News: "news"
   About Me: "aboutme"
  
@@ -21,7 +21,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+#avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -39,8 +39,8 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   facebook: deanattali
-  github: daattali
-  twitter: daattali
+  github: https://github.com/huyle84
+  twitter: 
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
@@ -58,7 +58,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+ google-scholar: https://scholar.google.com/citations?user=RsBLTFYAAAAJ&hl=en
 
 # --- General options --- #
 
@@ -71,7 +71,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://huyle84.github.io/"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
