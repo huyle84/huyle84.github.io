@@ -25,4 +25,4 @@ My research interest is on Post-quantum (Lattice-based) Cryptography
 - (BEST PAPER AWARD)  **Huy Quoc Le**, Dung Hoang Duong, Willy Susilo, Ha Thanh Nguyen Tran, Cuong Viet Trinh, Thomas Plantard, Josef Pieprzyk. Lattice Blind Signature with Forward Secrecy, accepted as a full paper to ACISP 2020  (Acceptance Rate: 19.9%.)
 - **Huy Quoc Le**, Dung Hoang Duong, Willy Susilo, Josef Pieprzyk.  Trapdoor Delegation and HIBE from Middle-Product LWE in Standard Model,  to appear in ACNS 2020 (Acceptance Rate: 21%.) 
 
-2. For more information about my research, please visit [here]().
+#### For more information about my research, please visit [here]().
