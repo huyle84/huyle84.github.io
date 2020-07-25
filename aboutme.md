@@ -6,10 +6,10 @@ subtitle: An introduction to me
 
 My name is Huy Quoc Le. I am doing research on Cryptography!
 
-
+---
 ## Research Interest
 My research interest is on Post-quantum (Lattice-based) Cryptography
-
+---
 ## Education
 *  2019-present: PhD student at University of Wollongong (UOW) under supervisions of Prof. Willy Susilo, Dr. Dung Duong, Dr. Thomas Plantard (UOW) and Prof. Josef Pieprzyk (CSIRO DATA61).
 
@@ -27,7 +27,7 @@ My research interest is on Post-quantum (Lattice-based) Cryptography
 
 #### For more information about my research, please visit [here]().
 
-
+---
 ## Awards & Scholarships
 - BEST PAPER AWARD at ACISP 2020
 
