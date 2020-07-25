@@ -45,9 +45,9 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "huyle84@gmail.com"
-  facebook: " https://www.facebook.com/huyle84/"
-  github: " https://github.com/huyle84/"
-  twitter: "https://twitter.com/huyquooclee"
+  facebook: "huyle84/"
+  github: " huyle84/"
+  twitter: "huyquooclee"
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
