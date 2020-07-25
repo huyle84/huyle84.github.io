@@ -9,6 +9,6 @@ subtitle: Tips and Tricks
 - [GitHub Pages](https://kipalog.com/posts/Kinh-nghiem-tao-website-ca-nhan-voi-Jekyll---Github-pages)
 
 ---
-## SageNath Tips
+## SageMath Tips
 
 
