@@ -26,3 +26,30 @@ My research interest is on Post-quantum (Lattice-based) Cryptography
 - **Huy Quoc Le**, Dung Hoang Duong, Willy Susilo, Josef Pieprzyk.  Trapdoor Delegation and HIBE from Middle-Product LWE in Standard Model,  to appear in ACNS 2020 (Acceptance Rate: 21%.) 
 
 #### For more information about my research, please visit [here]().
+
+
+## Awards & Scholarships
+- BEST PAPER AWARD at ACISP 2020
+
+- Sep 2019-2023: CSIRO Data61 Scholarship and CSIRO Data61 Top-up Scholarship, CSIRO, Australia.
+
+- April 2018 – March 2019: Research Assistant position, Department of Mathematics, Kyushu University.
+
+- April 2017 – March 2018: Research Assistant position, Department of Mathematics, Kyushu University.
+
+- April 2017 – March 2018: Fukuoka City Rainbow Scholarship for International student.
+
+- 2007 – 2016: Awards for outstanding teacher.
+
+- 2005: The Union of Student Award for social activities.
+
+- 2004: The Union of Youth Award for social activities.
+
+- 2003 – 2007: Monthly Ho Chi Minh City University of Pedagogy Scholarshipfor good student.
+
+- December 2001: Third prize in the Mathematics Competition in Binh Phuocprovince, Vietnam. Member of the Binh Phuoc province team participated inthe National Mathematics Competition.
+
+- 1998: Song Long Scholarship for excellent secondary school student, BinhPhuoc province, Vietnam.
+
+
+
