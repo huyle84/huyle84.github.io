@@ -18,6 +18,7 @@ September 2008-June 2011: Master of Science in Mathematical Analysis, Department
 September 2003- July 2007: Bachelor of Science in Mathematics, Department of Mathematics and Informatics, Ho Chi Minh City University of Pedagogy, Ho Chi Minh City, Vietnam.
 
 ### My Publications
+Google Scholar (https://scholar.google.com/citations?user=RsBLTFYAAAAJ&hl=en). A big ass literal link <http://github.com/barryclark/jekyll-now/>
 
 Google Scholar, DBLP or here
 
