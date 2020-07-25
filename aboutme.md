@@ -16,7 +16,7 @@ My research interest is on Post-quantum (Lattice-based) Cryptography
 *  September 2008-June 2011: Master of Science in Mathematical Analysis, Department of Mathematics and Informatics, Ho Chi Minh City University of Science, Vietnam National University, Ho Chi Minh City, Vietnam. 
 
 *  September 2003- July 2007: Bachelor of Science in Mathematics, Department of Mathematics and Informatics, Ho Chi Minh City University of Pedagogy, Ho Chi Minh City, Vietnam.
-
+---
 ## Publications
 [Google Scholar](https://scholar.google.com/citations?user=RsBLTFYAAAAJ&hl=en), [DBLP](https://dblp.org/pers/l/Le:Huy_Quoc.html)
 
