@@ -10,7 +10,12 @@ subtitle: Tips and Tricks
 
 ---
 ## SageMath Tips
--
+
+- [Discrete Gaussian Samplers over the Integers](https://doc.sagemath.org/html/en/reference/stats/sage/stats/distributions/discrete_gaussian_integer.html). 
+
+- [iscrete Gaussian Samplers for Z[x]:](https://doc.sagemath.org/html/en/reference/stats/sage/stats/distributions/discrete_gaussian_polynomial.html). 
+
+-[screte Gaussian Samplers over Lattices:](https://doc.sagemath.org/html/en/reference/stats/sage/stats/distributions/discrete_gaussian_lattice.html).
 ---
 ## Web of Science
 - Search for journal's impact at [Web of Science](http://gots.uow.edu.au/gots/tutorial/web-of-science-advanced-search)
