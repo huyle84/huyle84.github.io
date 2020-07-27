@@ -9,7 +9,7 @@ subtitle: My research activities
 
 
 ### (Peer-reviewed) Journal papers:
-- **Huy Quoc Le**, Pradeep Kumar Mishra, Satoshi Nakamura, Koha Kinjo, Dung Hoang Duong, Masaya Yasuda. The Impact of the Modulus Switching Technique on Some Attacks against Learning Problems, IET Information Security. See at [IET Digital Library](https://digital-library.theiet.org/content/journals/10.1049/iet-ifs.2019.0220 or [IEEEXplore](https://ieeexplore.ieee.org/document/9063755), [Download here](https://www.dropbox.com/s/wek4w261y0iyd66/CANS2018-IET-IFS-sent-UOW.pdf?dl=0).
+- **Huy Quoc Le**, Pradeep Kumar Mishra, Satoshi Nakamura, Koha Kinjo, Dung Hoang Duong, Masaya Yasuda. The Impact of the Modulus Switching Technique on Some Attacks against Learning Problems, IET Information Security. See at [IET Digital Library](https://digital-library.theiet.org/content/journals/10.1049/iet-ifs.2019.0220) or [IEEEXplore](https://ieeexplore.ieee.org/document/9063755), [Download here](https://www.dropbox.com/s/wek4w261y0iyd66/CANS2018-IET-IFS-sent-UOW.pdf?dl=0).
 
 - **Huy Quoc Le**, Dung Hoang Duong, Kazuhide Fukushima, Shinsaku Kiyomoto, Partha Sarathi Roy, Willy Susilo: Signcryption with Equality Test from Lattices in Standard Model, submitted.
 
