@@ -9,8 +9,13 @@ tags: [LWE, parameters]
 ---
 
 
-### LWE Estimator (Documentations): https://lwe-estimator.readthedocs.io/en/latest/ 
+For choosing parameters, we can use the following tools:
+
+### LWE Estimator (Documentations):
+
+https://lwe-estimator.readthedocs.io/en/latest/ 
 ---
+
 ### Script on SageMath: 
 
 {% highlight javascript linenos %}
@@ -20,4 +25,4 @@ set_verbose(1)
 _ = estimate_lwe(n, alpha, q)
 {% endhighlight %}
 ---
-#### Estimate all the fLWE, NTRUg schemes: https://estimate-all-the-lwe-ntru-schemes.github.io/docs/ 
+#### Estimate all the LWE, NTRU schemes: https://estimate-all-the-lwe-ntru-schemes.github.io/docs/ 
