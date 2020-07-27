@@ -11,7 +11,7 @@ tags: [LWE, parameters]
 
 For choosing parameters, we can use the following tools:
 
-1. **LWE Estimator (Documentations):**
+1. **LWE Estimator:**
 - [Documentations](https://lwe-estimator.readthedocs.io/en/latest/) 
 
 2. **Script on SageMath:** 
