@@ -14,9 +14,9 @@ subtitle: My research activities
 - **Huy Quoc Le**, Dung Hoang Duong, Kazuhide Fukushima, Shinsaku Kiyomoto, Partha Sarathi Roy, Willy Susilo: Signcryption with Equality Test from Lattices in Standard Model, submitted.
 
 ### (Peer-reviewed) Conference Papers:
-- Willy Susilo, Dung Hoang Duong, **Huy Quoc Le**, and Josef Pieprzyk.  Puncturable Encryption: A Generic Construction from Delegatable Fully Key-Homomorphic Encryption, accepted to ESORICS 2020. [Download here, full version](https://arxiv.org/abs/2007.06353)
+- Willy Susilo, Dung Hoang Duong, **Huy Quoc Le**, and Josef Pieprzyk.  Puncturable Encryption: A Generic Construction from Delegatable Fully Key-Homomorphic Encryption, accepted to ESORICS 2020. [Download full version here](https://arxiv.org/abs/2007.06353)
 
-- **Huy Quoc Le**, Dung Hoang Duong, Willy Susilo, Ha Thanh Nguyen Tran, Cuong Viet Trinh, Thomas Plantard, Josef Pieprzyk. Lattice Blind Signature with Forward Secrecy, accepted as a full paper to ACISP 2020 (BEST PAPER AWARD) [Download here, full version](https://arxiv.org/abs/2007.06884)
+- **Huy Quoc Le**, Dung Hoang Duong, Willy Susilo, Ha Thanh Nguyen Tran, Cuong Viet Trinh, Thomas Plantard, Josef Pieprzyk. Lattice Blind Signature with Forward Secrecy, accepted as a full paper to ACISP 2020 (BEST PAPER AWARD) [Download full version here](https://arxiv.org/abs/2007.06884)
 
 - **Huy Quoc Le**, Dung Hoang Duong, Willy Susilo, Josef Pieprzyk.  Trapdoor Delegation and HIBE from Middle-Product LWE in Standard Model,  to appear in ACNS 2020. [Download here, full version](https://arxiv.org/abs/2007.06881)
 
