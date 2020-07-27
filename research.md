@@ -14,13 +14,13 @@ subtitle: My research activities
 - **Huy Quoc Le**, Dung Hoang Duong, Kazuhide Fukushima, Shinsaku Kiyomoto, Partha Sarathi Roy, Willy Susilo: Signcryption with Equality Test from Lattices in Standard Model, submitted.
 
 ### (Peer-reviewed) Conference Papers:
-- Willy Susilo, Dung Hoang Duong, **Huy Quoc Le**, and Josef Pieprzyk.  Puncturable Encryption: A Generic Construction from Delegatable Fully Key-Homomorphic Encryption, accepted to ESORICS 2020. [Download full version here](https://arxiv.org/abs/2007.06353)
+- Willy Susilo, Dung Hoang Duong, **Huy Quoc Le**, and Josef Pieprzyk.  Puncturable Encryption: A Generic Construction from Delegatable Fully Key-Homomorphic Encryption, accepted to ESORICS 2020. [Download full version here](https://arxiv.org/abs/2007.06353).
 
-- **Huy Quoc Le**, Dung Hoang Duong, Willy Susilo, Ha Thanh Nguyen Tran, Cuong Viet Trinh, Thomas Plantard, Josef Pieprzyk. Lattice Blind Signature with Forward Secrecy, accepted as a full paper to ACISP 2020 (BEST PAPER AWARD) [Download full version here](https://arxiv.org/abs/2007.06884)
+- **Huy Quoc Le**, Dung Hoang Duong, Willy Susilo, Ha Thanh Nguyen Tran, Cuong Viet Trinh, Thomas Plantard, Josef Pieprzyk. Lattice Blind Signature with Forward Secrecy, accepted as a full paper to ACISP 2020 (BEST PAPER AWARD) [Download full version here](https://arxiv.org/abs/2007.06884).
 
-- **Huy Quoc Le**, Dung Hoang Duong, Willy Susilo, Josef Pieprzyk.  Trapdoor Delegation and HIBE from Middle-Product LWE in Standard Model,  to appear in ACNS 2020. [Download here, full version](https://arxiv.org/abs/2007.06881)
+- **Huy Quoc Le**, Dung Hoang Duong, Willy Susilo, Josef Pieprzyk.  Trapdoor Delegation and HIBE from Middle-Product LWE in Standard Model,  to appear in ACNS 2020. [Download full version here](https://arxiv.org/abs/2007.06881).
 
-- **Huy Quoc Le**, Willy Susilo, Thanh Xuan Khuc, Minh Kim Bui, Dung Hoang Duong. A Blind Signature from Module Lattices, 2019 IEEE Conference on Dependable and Secure Computing (DSC), Hangzhou, China, 2019, pp. 1-8. [IEEEXplore](https://ieeexplore.ieee.org/document/8937613), [Download here](https://www.dropbox.com/s/e0cgncuphowm0gr/IEEE_DSC2019_CameraReady%28revised%29.pdf?dl=0)
+- **Huy Quoc Le**, Willy Susilo, Thanh Xuan Khuc, Minh Kim Bui, Dung Hoang Duong. A Blind Signature from Module Lattices, 2019 IEEE Conference on Dependable and Secure Computing (DSC), Hangzhou, China, 2019, pp. 1-8. [IEEEXplore](https://ieeexplore.ieee.org/document/8937613), [Download here](https://www.dropbox.com/s/e0cgncuphowm0gr/IEEE_DSC2019_CameraReady%28revised%29.pdf?dl=0).
 
 - **Huy Quoc Le**, Dung Hoang Duong, Willy Susilo. A Blind Ring Signature Based on the Short Integer Solution Problem,  WISA 2019: 92-111.  [Spinger link](https://link.springer.com/chapter/10.1007/978-3-030-39303-8_8) or [Download here (revised)](https://www.dropbox.com/s/jd5k6k52rnbknm7/WISA2019LNCSSubmission%20%28revised%29.pdf?dl=0), [Presentation](https://www.dropbox.com/s/wnzsz8f5eftltxe/WISA2019_Presentation.pdf?dl=0). 
 
