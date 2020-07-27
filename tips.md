@@ -10,11 +10,8 @@ subtitle: Tips and Tricks
 
 ---
 ## SageMath Tips
-
 - [Discrete Gaussian Samplers over the Integers](https://doc.sagemath.org/html/en/reference/stats/sage/stats/distributions/discrete_gaussian_integer.html). 
-
 - [Discrete Gaussian Samplers for Integer Polynomials:](https://doc.sagemath.org/html/en/reference/stats/sage/stats/distributions/discrete_gaussian_polynomial.html). 
-
 - [Discrete Gaussian Samplers over Lattices:](https://doc.sagemath.org/html/en/reference/stats/sage/stats/distributions/discrete_gaussian_lattice.html).
 ---
 ## Web of Science
