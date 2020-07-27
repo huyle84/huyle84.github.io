@@ -12,7 +12,7 @@ My research interest is on Post-quantum (Lattice-based) Cryptography
 
 ---
 ## Education
--  **2019-present:** PhD student at University of Wollongong (UOW) under supervisions of Prof. Willy Susilo, Dr. Dung Duong, Dr. Thomas Plantard (UOW) and Prof. Josef Pieprzyk (CSIRO DATA61).
+-  **2019-present:** PhD student at University of Wollongong (UOW) under supervisions of [Prof. Willy Susilo](https://documents.uow.edu.au/~wsusilo/), [Dr. Dung Duong](https://documents.uow.edu.au/~hduong/), [Dr. Thomas Plantard](https://ssl.informatics.uow.edu.au/MACAO/thomas_plantard.html) (UOW) and [Prof. Josef Pieprzyk](https://people.csiro.au/P/J/Josef-Pieprzyk) (CSIRO DATA61).
 
 -  **September 2008-June 2011:** Master of Science in Mathematical Analysis, Department of Mathematics and Informatics, Ho Chi Minh City University of Science, Vietnam National University, Ho Chi Minh City, Vietnam. 
 
@@ -24,11 +24,11 @@ My research interest is on Post-quantum (Lattice-based) Cryptography
 [Google Scholar](https://scholar.google.com/citations?user=RsBLTFYAAAAJ&hl=en), [DBLP](https://dblp.org/pers/l/Le:Huy_Quoc.html)
 
 ### Selected Papers
-- Willy Susilo, Dung Hoang Duong, **Huy Quoc Le**, and Josef Pieprzyk.  Puncturable Encryption: A Generic Construction from Delegatable Fully Key-Homomorphic Encryption, accepted to ESORICS 2020.
-- (BEST PAPER AWARD)  **Huy Quoc Le**, Dung Hoang Duong, Willy Susilo, Ha Thanh Nguyen Tran, Cuong Viet Trinh, Thomas Plantard, Josef Pieprzyk. Lattice Blind Signature with Forward Secrecy, accepted as a full paper to ACISP 2020  (Acceptance Rate: 19.9%.)
-- **Huy Quoc Le**, Dung Hoang Duong, Willy Susilo, Josef Pieprzyk.  Trapdoor Delegation and HIBE from Middle-Product LWE in Standard Model,  to appear in ACNS 2020 (Acceptance Rate: 21%.) 
+- Willy Susilo, Dung Hoang Duong, **Huy Quoc Le**, and Josef Pieprzyk.  Puncturable Encryption: A Generic Construction from Delegatable Fully Key-Homomorphic Encryption, accepted to [ESORICS 2020](https://www.surrey.ac.uk/esorics-2020).
+- (BEST PAPER AWARD)  **Huy Quoc Le**, Dung Hoang Duong, Willy Susilo, Ha Thanh Nguyen Tran, Cuong Viet Trinh, Thomas Plantard, Josef Pieprzyk. Lattice Blind Signature with Forward Secrecy, accepted as a full paper to [ACISP 2020](http://nsclab.org/acisp2020/)  (Acceptance Rate: 19.9%.)
+- **Huy Quoc Le**, Dung Hoang Duong, Willy Susilo, Josef Pieprzyk.  Trapdoor Delegation and HIBE from Middle-Product LWE in Standard Model,  to appear in [ACNS 2020](https://sites.google.com/di.uniroma1.it/ACNS2020) (Acceptance Rate: 21%.) 
 
-#### For more information about my research, please visit [here]().
+#### For more information about my research, please visit [here](https://huyle84.github.io/research/).
 
 ---
 ## Awards & Scholarships
