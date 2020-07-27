@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: How to step inside (lattice-based) cryptography
@@ -12,15 +11,15 @@ comments: true
 
 Those who want to step inside (lattice-based) cryptography should read the following references for background:
 
-## Theory of computation:
+### Theory of computation:
 
 - MIT Opencourse by Michael Sipser  (his book is here)
 
 - Theory of Complexity:
 
 
-
-## Foundations of Cryptography: 
+---
+### Foundations of Cryptography: 
 
 - Goldreich's books Vol 1, Vol 2  (his website)
 
@@ -28,14 +27,14 @@ Those who want to step inside (lattice-based) cryptography should read the follo
 
 - Book: A Graduate Course in Applied Cryptography by Dan Boneh and Victor Shoup
 
-
-## Theory of Lattices:
+---
+### Theory of Lattices:
 
 - Vinod's course 2020 :  CS 294-168 Lattices, Learning with Errors and Post-Quantum Cryptography 
 
 
-
-## Cryptographic Protocols: 
+---
+### Cryptographic Protocols: 
 
 - Cryptography and Cryptographic Protocols by Oded Goldreich
 
