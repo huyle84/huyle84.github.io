@@ -1,9 +1,17 @@
+---
+layout: post
+title: Choosing Parameters for LWE
+subtitle: Materials for choosing parameters for LWE
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [LWE, parameters]
+---
 
 
-Choose Parameters for LWE
-LWE Estimator (Documentations): https://lwe-estimator.readthedocs.io/en/latest/ 
+### LWE Estimator (Documentations): https://lwe-estimator.readthedocs.io/en/latest/ 
 
-Script on SageMath: 
+### Script on SageMath: 
 
 load("https://bitbucket.org/malb/lwe-estimator/raw/HEAD/estimator.py")
 
@@ -13,4 +21,4 @@ set_verbose(1)
 
 _ = estimate_lwe(n, alpha, q)
 
-Estimate all the fLWE, NTRUg schemes: https://estimate-all-the-lwe-ntru-schemes.github.io/docs/ 
+#### Estimate all the fLWE, NTRUg schemes: https://estimate-all-the-lwe-ntru-schemes.github.io/docs/ 
