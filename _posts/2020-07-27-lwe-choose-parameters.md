@@ -13,7 +13,6 @@ For choosing parameters, we can use the following tools:
 
 1. **LWE Estimator (Documentations):**
 - [Documentations](https://lwe-estimator.readthedocs.io/en/latest/) 
----
 
 2. **Script on SageMath:** 
 It looks like the following:
@@ -23,7 +22,5 @@ n, alpha, q = 256,  0.000976562500000000,  65537
 set_verbose(1)
 _ = estimate_lwe(n, alpha, q)
 {% endhighlight %}
-
----
 3. **Estimate all the LWE, NTRU schemes:** 
 - Can see [here](https://estimate-all-the-lwe-ntru-schemes.github.io/docs/) 
