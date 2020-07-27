@@ -12,7 +12,6 @@ tags: [LWE, parameters]
 For choosing parameters, we can use the following tools:
 
 1. **LWE Estimator (Documentations):**
-
 [Documentations](https://lwe-estimator.readthedocs.io/en/latest/) 
 ---
 
