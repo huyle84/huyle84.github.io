@@ -9,7 +9,7 @@ subtitle: My research activities
 
 
 ### (Peer-reviewed) Journal papers:
-- **Huy Quoc Le**, Pradeep Kumar Mishra, Satoshi Nakamura, Koha Kinjo, Dung Hoang Duong, Masaya Yasuda. The Impact of the Modulus Switching Technique on Some Attacks against Learning Problems, IET Information Security. See at IET Digital Library or IEEEXplore . [IEEEXplore] (https://ieeexplore.ieee.org/document/9063755), [Download here](https://www.dropbox.com/s/wek4w261y0iyd66/CANS2018-IET-IFS-sent-UOW.pdf?dl=0).
+- **Huy Quoc Le**, Pradeep Kumar Mishra, Satoshi Nakamura, Koha Kinjo, Dung Hoang Duong, Masaya Yasuda. The Impact of the Modulus Switching Technique on Some Attacks against Learning Problems, IET Information Security. See at IET Digital Library or IEEEXplore . [IEEEXplore](https://ieeexplore.ieee.org/document/9063755), [Download here](https://www.dropbox.com/s/wek4w261y0iyd66/CANS2018-IET-IFS-sent-UOW.pdf?dl=0).
 
 - **Huy Quoc Le**, Dung Hoang Duong, Kazuhide Fukushima, Shinsaku Kiyomoto, Partha Sarathi Roy, Willy Susilo: Signcryption with Equality Test from Lattices in Standard Model, submitted.
 
@@ -22,7 +22,7 @@ subtitle: My research activities
 
 - **Huy Quoc Le**, Willy Susilo, Thanh Xuan Khuc, Minh Kim Bui, Dung Hoang Duong. A Blind Signature from Module Lattices, 2019 IEEE Conference on Dependable and Secure Computing (DSC), Hangzhou, China, 2019, pp. 1-8. [IEEEXplore] (https://ieeexplore.ieee.org/document/8937613), [Download here](https://www.dropbox.com/s/e0cgncuphowm0gr/IEEE_DSC2019_CameraReady%28revised%29.pdf?dl=0)
 
-- **Huy Quoc Le**, Dung Hoang Duong, Willy Susilo. A Blind Ring Signature Based on the Short Integer Solution Problem,  WISA 2019: 92-111.  [Spinger link](https://link.springer.com/chapter/10.1007/978-3-030-39303-8_8) or [download here (revised)](https://www.dropbox.com/s/jd5k6k52rnbknm7/WISA2019LNCSSubmission%20%28revised%29.pdf?dl=0), [Presentation](https://www.dropbox.com/s/wnzsz8f5eftltxe/WISA2019_Presentation.pdf?dl=0). 
+- **Huy Quoc Le**, Dung Hoang Duong, Willy Susilo. A Blind Ring Signature Based on the Short Integer Solution Problem,  WISA 2019: 92-111.  [Spinger link](https://link.springer.com/chapter/10.1007/978-3-030-39303-8_8) or [Download here (revised)](https://www.dropbox.com/s/jd5k6k52rnbknm7/WISA2019LNCSSubmission%20%28revised%29.pdf?dl=0), [Presentation](https://www.dropbox.com/s/wnzsz8f5eftltxe/WISA2019_Presentation.pdf?dl=0). 
 
 - Dung Hoang Duong, **Huy Quoc Le**, Partha Sarathi Roy, Willy Susilo. Lattice-based IBE with equality test in standard model, ProvSec 2019: 1-22, [Springer link](https://link.springer.com/chapter/10.1007/978-3-030-31919-9_2) or [Download here](https://www.dropbox.com/s/sn5ma7vdpv754t5/%5BProvsec2019%5D-IBE-ET.pdf?dl=0).
 
