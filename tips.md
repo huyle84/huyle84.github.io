@@ -13,6 +13,6 @@ subtitle: Tips and Tricks
 -
 ---
 ## Web of Science
--Search for journal's impact at ơWeb of Scienceư(http://gots.uow.edu.au/gots/tutorial/web-of-science-advanced-search)
+-Search for journal's impact at [Web of Science](http://gots.uow.edu.au/gots/tutorial/web-of-science-advanced-search)
 
 
