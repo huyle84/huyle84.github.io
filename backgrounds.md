@@ -14,10 +14,8 @@ Those who want to step inside (lattice-based) cryptography should read the follo
 ## Theory of Complexity:
 
 ## Foundations of Cryptography: 
-- [The Foundations of Cryptography - Volume 1](http://www.wisdom.weizmann.ac.il/~oded/foc-vol1.html) and [The Foundations of Cryptography - Volume 1](http://www.wisdom.weizmann.ac.il/~oded/foc-vol2.html) by Oded Goldreich.
-
-- Book [Cryptography Made Simple](https://link.springer.com/book/10.1007/978-3-319-21936-3) by Nigel P Smart.
-
+- [The Foundations of Cryptography - Volume 1](http://www.wisdom.weizmann.ac.il/~oded/foc-vol1.html) and [The Foundations of Cryptography - Volume 1](http://www.wisdom.weizmann.ac.il/~oded/foc-vol2.html) by Oded Goldreich. 
+- Book [Cryptography Made Simple](https://link.springer.com/book/10.1007/978-3-319-21936-3) by Nigel P Smart. 
 - Book [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/) by Dan Boneh and Victor Shoup.
 ---
 
