@@ -1,25 +1,28 @@
 ---
 layout: page
-title: Tips
-subtitle: Tips and Tricks
+title: Backgrounds
+subtitle: Basic Knowledge for Beginners in Cryptography
 ---
 
-## GitHub Tips
-- [Quick reference jekyll and Markdown](https://gist.github.com/roachhd/779fa77e9b90fe945b0c)
-- [GitHub Pages](https://kipalog.com/posts/Kinh-nghiem-tao-website-ca-nhan-voi-Jekyll---Github-pages)
+Those who want to step inside (lattice-based) cryptography should read the following references for background:
+Theory of computation:
+MIT Opencourse by Michael Sipser  (his book is here)
+Theory of Complexity:
 
+## Foundations of Cryptography: 
+Goldreich's books Vol 1, Vol 2  (his website)
+Nigel P Smart books: Cryptography Made Simple 
+Book: A Graduate Course in Applied Cryptography by Dan Boneh and Victor Shoup
+Theory of Lattices:
+Vinod's course 2020 :  CS 294-168 Lattices, Learning with Errors and Post-Quantum Cryptography 
 
-
----
-## SageMath Tips
-- [Discrete Gaussian Samplers over the Integers](https://doc.sagemath.org/html/en/reference/stats/sage/stats/distributions/discrete_gaussian_integer.html). 
-- [Discrete Gaussian Samplers for Integer Polynomials](https://doc.sagemath.org/html/en/reference/stats/sage/stats/distributions/discrete_gaussian_polynomial.html).
-- [Discrete Gaussian Samplers over Lattices](https://doc.sagemath.org/html/en/reference/stats/sage/stats/distributions/discrete_gaussian_lattice.html).
-
-
-
----
-## Web of Science
-- Search for journal's impact at [Web of Science](http://gots.uow.edu.au/gots/tutorial/web-of-science-advanced-search)
+## Cryptographic Protocols: 
+Cryptography and Cryptographic Protocols by Oded Goldreich
+Lecture Notes Cryptographic Protocols by  Berry Schoenmakers
+Security Proofs: 
+Game-based Proof: Sequences of games: a tool for taming complexity in security proofs  by Victor Shoup  (or here)
+Simulation-based Proof:  How To Simulate It - A Tutorial on the Simulation Proof Technique by Yehuda Lindell
+UC-based Proof: Universally Composable Security: A New Paradigm for Cryptographic Protocols  by Ran Cannetti
+Security Reduction: [Book] Introduction to Security Reduction by  Fuchun Guo, Willy Susilo, Yi Mu
 
 
