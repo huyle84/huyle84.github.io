@@ -7,15 +7,20 @@ subtitle: Basic Knowledge for Beginners in Cryptography
 Those who want to step inside (lattice-based) cryptography should read the following references for background:
 
 ## Theory of computation:
-
 - [MIT Opencourse](https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2006/) by Michael Sipser  (his book is [here](http://fuuu.be/polytech/INFOF408/Introduction-To-The-Theory-Of-Computation-Michael-Sipser.pdf))
 
 ---
 ## Theory of Complexity:
 
+----
+
 ## Foundations of Cryptography: 
+
 - [The Foundations of Cryptography - Volume 1](http://www.wisdom.weizmann.ac.il/~oded/foc-vol1.html) and [The Foundations of Cryptography - Volume 1](http://www.wisdom.weizmann.ac.il/~oded/foc-vol2.html) by Oded Goldreich. 
-- Book [Cryptography Made Simple](https://link.springer.com/book/10.1007/978-3-319-21936-3) by Nigel P Smart. Book [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/) by Dan Boneh and Victor Shoup.
+- Book [Cryptography Made Simple](https://link.springer.com/book/10.1007/978-3-319-21936-3) by Nigel P Smart. 
+- Book [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/) by Dan Boneh and Victor Shoup.
+
+
 ---
 
 ## Theory of Lattices:  
