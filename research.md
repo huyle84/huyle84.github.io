@@ -9,7 +9,7 @@ subtitle: My research activities
 
 
 ### (Peer-reviewed) Journal papers:
-- **Huy Quoc Le**, Pradeep Kumar Mishra, Satoshi Nakamura, Koha Kinjo, Dung Hoang Duong, Masaya Yasuda. The Impact of the Modulus Switching Technique on Some Attacks against Learning Problems, IET Information Security. See at [IET Digital Library](https://digital-library.theiet.org/content/journals/10.1049/iet-ifs.2019.0220) or [IEEEXplore](https://ieeexplore.ieee.org/document/9063755), [Download here](https://www.dropbox.com/s/wek4w261y0iyd66/CANS2018-IET-IFS-sent-UOW.pdf?dl=0).
+- **Huy Quoc Le**, Pradeep Kumar Mishra, Satoshi Nakamura, Koha Kinjo, Dung Hoang Duong, Masaya Yasuda. Impact of the Modulus Switching Technique on Some Attacks against Learning Problems.  in IET Information Security, vol. 14, no. 3, pp. 286-303, 5 2020, doi: 10.1049/iet-ifs.2019.0220. See at [IET Digital Library](https://digital-library.theiet.org/content/journals/10.1049/iet-ifs.2019.0220) or [IEEEXplore](https://ieeexplore.ieee.org/document/9063755), [Download here](https://www.dropbox.com/s/wek4w261y0iyd66/CANS2018-IET-IFS-sent-UOW.pdf?dl=0).
 
 - **Huy Quoc Le**, Dung Hoang Duong, Partha Sarathi Roy, Willy Susilo, Kazuhide Fukushima, Shinsaku Kiyomoto: Signcryption with Equality Test from Lattices in Standard Model, submitted.
 
@@ -22,11 +22,11 @@ subtitle: My research activities
 
 - **Huy Quoc Le**, Willy Susilo, Thanh Xuan Khuc, Minh Kim Bui, Dung Hoang Duong. A Blind Signature from Module Lattices, 2019 IEEE Conference on Dependable and Secure Computing (DSC), Hangzhou, China, 2019, pp. 1-8. [IEEEXplore](https://ieeexplore.ieee.org/document/8937613), [Download here](https://www.dropbox.com/s/e0cgncuphowm0gr/IEEE_DSC2019_CameraReady%28revised%29.pdf?dl=0).
 
-- **Huy Quoc Le**, Dung Hoang Duong, Willy Susilo. A Blind Ring Signature Based on the Short Integer Solution Problem,  WISA 2019: 92-111.  [Spinger link](https://link.springer.com/chapter/10.1007/978-3-030-39303-8_8) or [Download here (revised)](https://www.dropbox.com/s/jd5k6k52rnbknm7/WISA2019LNCSSubmission%20%28revised%29.pdf?dl=0), [Presentation](https://www.dropbox.com/s/wnzsz8f5eftltxe/WISA2019_Presentation.pdf?dl=0). 
+- **Huy Quoc Le**, Dung Hoang Duong, Willy Susilo. A Blind Ring Signature Based on the Short Integer Solution Problem,   WISA 2019. Lecture Notes in Computer Science, vol 11897. Springer, Cham.  [Spinger link](https://link.springer.com/chapter/10.1007/978-3-030-39303-8_8) or [Download here (revised)](https://www.dropbox.com/s/jd5k6k52rnbknm7/WISA2019LNCSSubmission%20%28revised%29.pdf?dl=0), [Presentation](https://www.dropbox.com/s/wnzsz8f5eftltxe/WISA2019_Presentation.pdf?dl=0). 
 
-- Dung Hoang Duong, **Huy Quoc Le**, Partha Sarathi Roy, Willy Susilo. Lattice-based IBE with equality test in standard model, ProvSec 2019: 1-22, [Springer link](https://link.springer.com/chapter/10.1007/978-3-030-31919-9_2) or [Download here](https://www.dropbox.com/s/sn5ma7vdpv754t5/%5BProvsec2019%5D-IBE-ET.pdf?dl=0).
+- Dung Hoang Duong, **Huy Quoc Le**, Partha Sarathi Roy, Willy Susilo. Lattice-based IBE with equality test in standard model, In: Steinfeld R., Yuen T. (eds) Provable Security. ProvSec 2019. Lecture Notes in Computer Science, vol 11821. Springer, Cham. [Springer link](https://link.springer.com/chapter/10.1007/978-3-030-31919-9_2) or [Download here](https://www.dropbox.com/s/sn5ma7vdpv754t5/%5BProvsec2019%5D-IBE-ET.pdf?dl=0).
 
-- **Huy Quoc Le**, Pradeep Kumar Mishra, Dung Hoang Duong, Masaya Yasuda. Solving LWR via BDD Strategy: Modulus Switching Approach. CANS 2018: 357-376, [Springer Link](https://link.springer.com/chapter/10.1007/978-3-030-00434-7_18), or [Download here](https://www.dropbox.com/s/m6mk6zkmhzq1auo/%5BCANS2018%5D-Solving%20LWR%20via%20BDD%20Strateg_Modulus%20Switching%20Approach.pdf?dl=0), and [Presentation](https://www.dropbox.com/s/izml2eptdx0ow1u/CANS%20Presentation-final.pdf?dl=0). 
+- **Huy Quoc Le**, Pradeep Kumar Mishra, Dung Hoang Duong, Masaya Yasuda. Solving LWR via BDD Strategy: Modulus Switching Approach. In: Camenisch J., Papadimitratos P. (eds) Cryptology and Network Security. CANS 2018. Lecture Notes in Computer Science, vol 11124. Springer, Cham. [Springer Link](https://link.springer.com/chapter/10.1007/978-3-030-00434-7_18), or [Download here](https://www.dropbox.com/s/m6mk6zkmhzq1auo/%5BCANS2018%5D-Solving%20LWR%20via%20BDD%20Strateg_Modulus%20Switching%20Approach.pdf?dl=0), and [Presentation](https://www.dropbox.com/s/izml2eptdx0ow1u/CANS%20Presentation-final.pdf?dl=0). 
 
 
 
