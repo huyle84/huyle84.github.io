@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Activities
-subtitle: My research activities
+subtitle: My research outcomes
 ---
 
 ## Publications
