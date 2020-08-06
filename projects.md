@@ -8,8 +8,8 @@ subtitle: Meetings, Seminars and more
 
 ## Tuesday:
 
-- Seminar link: [https://stream.herapo.net/b/sem-xkm-xkh](https://stream.herapo.net/b/sem-xkm-xkh) 
-- Code: 840879
+- **Seminar link:** [https://stream.herapo.net/b/sem-xkm-xkh](https://stream.herapo.net/b/sem-xkm-xkh) 
+- **Code:** 840879
 
 ## Wednesday:
 - **Nigel P Smart books:** [Cryptography Made Simple](https://link.springer.com/book/10.1007/978-3-319-21936-3) 
@@ -17,7 +17,7 @@ subtitle: Meetings, Seminars and more
 - **Dr. Dung's page:** [https://documents.uow.edu.au/~hduong/Crypto-Made-Simple.html](https://documents.uow.edu.au/~hduong/Crypto-Made-Simple.html)
 
 ## Thursday:
-- 
+
 ## Friday:
 
 ## Saturday:
