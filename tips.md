@@ -19,7 +19,8 @@ subtitle: Tips and Tricks
 ---
 ## Tikz Tips
 
-- Tikz code for drawing cryptography box security games in Tikz
+- **Tikz code for drawing cryptography box security games in Tikz**:
+
 \documentclass[border=5pt,tikz]{standalone}
 \usepackage{yfonts,amsmath,amssymb,amsfonts}
 \usetikzlibrary{arrows,positioning,calc}
