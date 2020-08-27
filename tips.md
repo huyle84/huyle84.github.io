@@ -16,8 +16,10 @@ subtitle: Tips and Tricks
 - [Discrete Gaussian Samplers for Integer Polynomials](https://doc.sagemath.org/html/en/reference/stats/sage/stats/distributions/discrete_gaussian_polynomial.html).
 - [Discrete Gaussian Samplers over Lattices](https://doc.sagemath.org/html/en/reference/stats/sage/stats/distributions/discrete_gaussian_lattice.html).
 
-
+---
 ## Tikz Tips
+
+- Tikz code for drawing cryptography box security games in Tikz
 \documentclass[border=5pt,tikz]{standalone}
 \usepackage{yfonts,amsmath,amssymb,amsfonts}
 \usetikzlibrary{arrows,positioning,calc}
