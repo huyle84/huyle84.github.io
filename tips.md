@@ -40,8 +40,8 @@ subtitle: Tips and Tricks
                 \node[xshift=11cm,above=.5 of pk] {$\textcolor{red}{\mathcal{L}}\leftarrow\emptyset$};
     \end{tikzpicture}
 \end{document}
-- [http://www.leg.ufpr.br/~walmes/tikz/]{http://www.leg.ufpr.br/~walmes/tikz/}
-- [https://www.iacr.org/authors/tikz/]{https://www.iacr.org/authors/tikz/}
+- [http://www.leg.ufpr.br/~walmes/tikz/](http://www.leg.ufpr.br/~walmes/tikz/)
+- [https://www.iacr.org/authors/tikz/](https://www.iacr.org/authors/tikz/)
 ---
 ## Web of Science
 - Search for journal's impact at [Web of Science](http://gots.uow.edu.au/gots/tutorial/web-of-science-advanced-search)
