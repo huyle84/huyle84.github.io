@@ -32,6 +32,9 @@ My research interest is on Post-quantum (Lattice-based) Cryptography
 
 ---
 ## Awards & Scholarships
+
+- **November 2020:** Runner-up Award at the 2020 SCIT HDR Workshop, University of Wollongong
+
 - **2020:** BEST PAPER AWARD at ACISP 2020
 
 - **Sep 2019-2023:** CSIRO Data61 Scholarship and CSIRO Data61 Top-up Scholarship, CSIRO, Australia.
