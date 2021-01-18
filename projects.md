@@ -9,8 +9,9 @@ subtitle: Meetings, Seminars and more
 
 
 ## Tuesday:
+
 | Date        | Time           | Paper |   Speaker |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| -----:|  -----:|
 | 19/01/20201      | 12:00 pm (AST)/ 8AM (VNT) | [GPV08]| Nhat Nguyen|
 | col 2 is      | centered      |   $12 | |
 | zebra stripes | are neat      |    $1 | |
