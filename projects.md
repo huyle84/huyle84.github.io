@@ -5,12 +5,21 @@ subtitle: Meetings, Seminars and more
 ---
 
 ## Monday:
+---
+
 
 ## Tuesday:
+| Date        | Time           | Paper |   Speaker |
+| ------------- |:-------------:| -----:|
+| 19/01/20201      | 12:00 pm (AST)/ 8AM (VNT) | [GPV08]| Nhat Nguyen|
+| col 2 is      | centered      |   $12 | |
+| zebra stripes | are neat      |    $1 | |
+
+---
 
 - **Seminar link:** [https://stream.herapo.net/b/sem-xkm-xkh](https://stream.herapo.net/b/sem-xkm-xkh) 
 - **Code:** 840879
-
+---
 ## Wednesday:
 - **Nigel P Smart books:** [Cryptography Made Simple](https://link.springer.com/book/10.1007/978-3-319-21936-3) 
 
