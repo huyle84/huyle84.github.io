@@ -8,7 +8,7 @@ My name is Huy Quoc Le. I am doing research on Cryptography.
 
 ---
 ## Research Interest
-My research interest is on Post-quantum (Lattice-based) Cryptography
+My research interest is on Post-quantum (Lattice-based) Cryptography and Apllied Cryptography
 
 ---
 ## Education
