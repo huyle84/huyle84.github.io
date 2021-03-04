@@ -13,13 +13,13 @@ author: Huy Quoc Le
 
 navbar-links:
   About Me: "aboutme"
-  Research: "research"
+   - Research: "research"
   Projects: "projects"
-    Seminars: "seminars"
+   - Seminars: "seminars"
   Programming: "programming"
   Backgrounds: "backgrounds"
   Links: "links"
-  Tips: "tips"
+   - Tips: "tips"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
@@ -65,8 +65,8 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  ORCID: 0000-0003-4862-6048
+  google-scholar: "https://scholar.google.com/citations?user=RsBLTFYAAAAJ&hl=en"
 
 # --- General options --- #
 
