@@ -13,13 +13,13 @@ author: Huy Quoc Le
 
 navbar-links:
   About Me: "aboutme"
-   - Research: "research"
+  Research: "research"
   Projects: "projects"
-   - Seminars: "seminars"
+  Seminars: "seminars"
   Programming: "programming"
   Backgrounds: "backgrounds"
   Links: "links"
-   - Tips: "tips"
+  Tips: "tips"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
