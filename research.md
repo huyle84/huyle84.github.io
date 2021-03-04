@@ -9,11 +9,27 @@ subtitle: My research outcomes
 
 
 ### (Peer-reviewed) Journal papers:
+
 - **Huy Quoc Le**, Pradeep Kumar Mishra, Satoshi Nakamura, Koha Kinjo, Dung Hoang Duong, Masaya Yasuda. Impact of the Modulus Switching Technique on Some Attacks against Learning Problems.  in IET Information Security, vol. 14, no. 3, pp. 286-303, 5 2020, doi: 10.1049/iet-ifs.2019.0220. See at [IET Digital Library](https://digital-library.theiet.org/content/journals/10.1049/iet-ifs.2019.0220) or [IEEEXplore](https://ieeexplore.ieee.org/document/9063755), [Download here](https://www.dropbox.com/s/wek4w261y0iyd66/CANS2018-IET-IFS-sent-UOW.pdf?dl=0).
 
 - **Huy Quoc Le**, Dung Hoang Duong, Partha Sarathi Roy, Willy Susilo, Kazuhide Fukushima, Shinsaku Kiyomoto: Signcryption with Equality Test from Lattices in Standard Model, submitted.
 
 ### (Peer-reviewed) Conference Papers:
+- **Huy Quoc Le**, Dung Hoang Duong, Partha Sarathi Roy,Willy Susilo, Kazuhide
+Fukushima, Shinsaku Kiyomoto: Signcryption with Equality Test from Lattices
+in Standard Model. Journal of Computer Standards & Interfaces, Volume
+76, 2021. https://doi.org/10.1016/j.csi.2021.103515.
+- Giang L.D. Nguyen, Willy Susilo, Dung Hoang Duong, **Huy Quoc Le** and
+Fuchun Guo. Lattice-Based IBE with Equality Test Supporting Flexible Authorization
+in the Standard Model. In: Bhargavan K., Oswald E., Prabhakaran
+M. (eds) Progress in Cryptology – INDOCRYPT 2020. INDOCRYPT 2020.
+Lecture Notes in Computer Science, vol 12578. Springer, Cham.
+https://doi.org/10.1007/978-3-030-65277-7_28.
+- Willy Susilo, Dung Hoang Duong, **Huy Quoc Le**: Efficient Post-quantum
+Identity-based Encryption with Equality Test. 2020 IEEE 26th International
+Conference on Parallel and Distributed Systems (ICPADS 2020): 633-640.
+https://doi.org/10.1109/ICPADS51040.2020.00088.
+
 - Willy Susilo, Dung Hoang Duong, **Huy Quoc Le**, and Josef Pieprzyk.  Puncturable Encryption: A Generic Construction from Delegatable Fully Key-Homomorphic Encryption, accepted to ESORICS 2020. [Download full version here](https://arxiv.org/abs/2007.06353).
 
 - **Huy Quoc Le**, Dung Hoang Duong, Willy Susilo, Ha Thanh Nguyen Tran, Cuong Viet Trinh, Thomas Plantard, Josef Pieprzyk. Lattice Blind Signature with Forward Secrecy, accepted as a full paper to ACISP 2020 (BEST PAPER AWARD) [Download full version here](https://arxiv.org/abs/2007.06884).
