@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to step inside (lattice-based) cryptography
-subtitle: Some materials helpful for begginers
+subtitle: Some materials helpful for beginners
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [cryptography]
