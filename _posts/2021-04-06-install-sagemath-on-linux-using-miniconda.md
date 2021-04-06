@@ -15,10 +15,13 @@ tags: [SageMath, conda, Miniconda, Linux, Python]
 In this short instruction, we will proceed with Miniconda. For Conda, the installment  is the same.
 
 **Step 1:** Download Miniconda at the link:  [https://docs.conda.io/en/latest/miniconda.html#linux-installers](https://docs.conda.io/en/latest/miniconda.html#linux-installers)
-
+ and store it in some folder that we want.
+ 
 **Step 2:** Install Miniconda:
 
-       - In the Terminal window, run the command:
+       - In the Terminal window, use `cd` command to go to the folder containing the Minoconda source code 
+
+       - Then run the command (assumning the file's name is Miniconda3-latest-Linux-x86_64.sh):
        
             $ bash Miniconda3-latest-Linux-x86_64.sh
             
