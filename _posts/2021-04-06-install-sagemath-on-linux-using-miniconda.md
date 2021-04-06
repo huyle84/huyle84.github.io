@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  Install SageMath on Linux using Miniconda (or Conda)
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/math-beauty.jpeg
+thumbnail-img: /assets/img/math-beauty.jpeg
+share-img: /assets/img/math-beauty.jpeg
 tags: [SageMath, conda, Miniconda, Linux, Python]
 ---
 
