@@ -28,11 +28,11 @@ In this short instruction, we will proceed with Miniconda. For Conda, the instal
        - Choose the default setting for easy
        - Close and then re-open your terminal window to get affected.
        
-**Step 3:** Using conda to install mamba (This way is recommended to get a better speed) as follows:
+**Step 3:** Using Conda to install Mamba (This way is recommended to get a better speed) as follows:
 
            $ conda install mamba -c conda-forge
            
-**Step 4:** Using mamba to install SageMath
+**Step 4:** Using Mamba to install SageMath
 
            $ mamba create -n sage sage -c conda-forge
            
