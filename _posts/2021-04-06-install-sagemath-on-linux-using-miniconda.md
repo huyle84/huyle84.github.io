@@ -12,7 +12,7 @@ tags: [SageMath, conda, Miniconda, Linux, Python]
 # Install SageMath on Linux using Miniconda (or Conda)
 
 
-In this short instruction, we will proceed with Miniconda. For conda, the installment  is the same.
+In this short instruction, we will proceed with Miniconda. For Conda, the installment  is the same.
 
 **Step 1:** Download Miniconda at the link:  [https://docs.conda.io/en/latest/miniconda.html#linux-installers](https://docs.conda.io/en/latest/miniconda.html#linux-installers)
 
