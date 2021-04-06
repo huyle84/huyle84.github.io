@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Install SageMath on Linux using Miniconda (or Conda)
