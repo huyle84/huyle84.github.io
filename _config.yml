@@ -18,7 +18,7 @@ navbar-links:
   #Seminars: "seminars"
   #Programming: "programming"
   #Backgrounds: "backgrounds"
-  #Links: "links"
+  Links: "links"
   #Tips: "tips"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
