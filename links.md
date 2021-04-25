@@ -22,4 +22,6 @@ subtitle: Tips and Tricks
 ## Web of Science
 - Search for journal's impact at [Web of Science](http://gots.uow.edu.au/gots/tutorial/web-of-science-advanced-search)
 
-
+---
+### Courses:
+- [CSE208: Advanced Cryptography by Daniele Micciancio](http://cseweb.ucsd.edu/classes/fa20/cse208-a/)
